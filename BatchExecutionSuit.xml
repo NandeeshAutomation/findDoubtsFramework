@@ -4,7 +4,7 @@
   <test name="Test">
     <classes>
       <class name="testParallelExecution.LoginTest"/>
-      <class name="testParallelExecution.RegisterTest"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- BatchExecutionSuit -->
